@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-<a href="https://wa.me/6283873115706"><img height="30" src="https://img.shields.io/badge/WhatsApp-Grup-green?colorA=64C864&colorB=4BAF4B&style=for-the-badge" alt="WhatsApp"></a>
-<a href="https://www.instagram.com/yusuf.expert"><img height="30" src="https://img.shields.io/badge/Instagram-expert.std-red?colorA=C86464&colorB=AF4B4B&style=for-the-badge" alt="Instagram"></a>
+<a href="https://wa.me/6283873115706"><img height="30" src="https://img.shields.io/badge/Join-Expert-green?colorA=64C864&colorB=4BAF4B&style=for-the-badge" alt="WhatsApp"><a>
+<a href="https://www.instagram.com/yusuf.expert"><img height="30" src="https://img.shields.io/badge/Follow-Expert-red?colorA=C86464&colorB=AF4B4B&style=for-the-badge" alt="Instagram"><a>
 </p>
