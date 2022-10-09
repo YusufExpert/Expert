@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="./pp.png" alt="Anime" height="150"></a>
+<a href="#"><img src="./Media/logo.png" alt="Anime" height="150"></a>
 <h2 align="center">Expert Studio</h2>
 </p>
 
